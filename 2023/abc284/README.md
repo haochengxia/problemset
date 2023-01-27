@@ -19,6 +19,6 @@ Simple DFS.
 
 ### F - ABCBAC
 
-KMP.
+Z-Algorithm.
 
 ### G - Only Once
